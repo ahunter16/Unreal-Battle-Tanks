@@ -1,2 +1,4 @@
 # Unreal-Battle-Tanks
-simple Unreal Engine 4.11 game, mostly made by following tutorials
+****
+Simple tank game involving simple AI, advanced controls, and terrain. 
+Made using Unreal Engine 4.11, and following a [Udemy tutorial](https://www.udemy.com/unrealcourse/learn/v4/overview)
